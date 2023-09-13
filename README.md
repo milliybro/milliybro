@@ -1,4 +1,4 @@
-[![MasterHead]([https://amonigel.com/wp-content/uploads/2022/06/thoughtworks-gif_dribbble.gif))](https://rishavchanda.io)
+
 <img src="https://amonigel.com/wp-content/uploads/2022/06/thoughtworks-gif_dribbble.gif" alt="react"/>
 <h1 align="center">Hi 👋, I'm MilliyBro</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
